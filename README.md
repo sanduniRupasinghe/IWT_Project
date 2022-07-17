@@ -8,5 +8,5 @@ Project Name - Boat Safari System - “Dream Journey”
 
 My functions are Blog page, Destination page and Boat Registration page in the web application. I implemented the all crud operations in the <b>Boat Registration</b>.
 
-Technologies used - <b>HTML, CSS, JavaSript ,PHP</b>
+This project using <b>HTML, CSS, JavaSript ,PHP</b>
    
